@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "950526746587",
+    "project_id": "ve-validator"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950526746587:android:64e4e44bcd887da3",
+        "android_client_info": {
+          "package_name": "com.example.manan.vevalidator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950526746587-l7hdgns8efeai4vm01hs3tj0kmifcu3t.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "950526746587-2nmi22qqgihss2hc7c39v1ro2gd552qm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manan.vevalidator",
+            "certificate_hash": "505af99dcc2d810d61105ba445b6edee537058e7"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbQs4FIpY0cGIYxTKLCPrATS-vfLPJjgQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
